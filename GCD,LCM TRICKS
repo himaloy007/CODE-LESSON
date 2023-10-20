@@ -1,0 +1,4 @@
+i.if(a==b)
+Then, gcd(a,b)==lcm(a,b)==a==b.
+
+ii.a*b=gcd(a,b)*lcm(a,b);
