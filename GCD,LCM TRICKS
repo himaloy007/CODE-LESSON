@@ -6,3 +6,5 @@ ii.a*b=gcd(a,b)*lcm(a,b);
 iii.GCD(A,B) -->(If A<B)
      A<=GCD(A,B)<B
     MAXIMUM GCD HERE CAN BE : 2*GCD(A,B)==B,normally --> 2*GCD<=B...(minimum multiplication is needed 2)
+
+[[[[[[maximum gcd of distinct pair between n number(1 to n) is n/2...]]]]]]
