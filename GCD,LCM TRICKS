@@ -2,3 +2,7 @@ i.if(a==b)
 Then, gcd(a,b)==lcm(a,b)==a==b.
 
 ii.a*b=gcd(a,b)*lcm(a,b);
+
+iii.GCD(A,B) -->(If A<B)
+     A<=GCD(A,B)<B
+    MAXIMUM GCD HERE CAN BE : 2*GCD(A,B)==B,normally --> 2*GCD<=B...(minimum multiplication is needed 2)
